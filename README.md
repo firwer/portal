@@ -1,3 +1,17 @@
+# Techical Challenge Details:
+I have implemented a graph visualisation of ML annotations
+
+### Preview of what I demostrated to the interviewer
+
+https://github.com/firwer/portal/assets/7589432/ca17f4ab-964a-463b-a849-59df05f26db1
+
+https://github.com/firwer/portal/assets/7589432/724ee53d-c2dd-41ad-be1f-e360332e3490
+
+Learning Outcome/Feedback:
+1. Abide by Single Responsibility per component rule
+2. Some code smells
+3. Good implementation of UI button for the graph feature that seemingly integrated well with the existing UI design
+
 # Portal
 
 [![Build Tests](https://github.com/datature/portal/actions/workflows/app-workflow.yml/badge.svg)](https://github.com/datature/portal/actions/workflows/app-workflow.yml)
